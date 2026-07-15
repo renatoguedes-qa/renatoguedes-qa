@@ -45,24 +45,21 @@ Portfólio de projetos em Quality Assurance, documentação de testes e automaç
 
 ## 📂 Projetos em destaque
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="32%" valign="top">
-      <h3><a href="https://github.com/renatoguedes-qa/sauce-demo-teste-manual">🛒 SauceDemo QA</a></h3>
-      <p>Descrição do projeto aqui.</p>
-    </td>
-    <td width="2%" align="center">│</td>
-    <td width="32%" valign="top">
-      <h3><a href="#">📁 Projeto 2</a></h3>
-      <p>Descrição do projeto aqui.</p>
-    </td>
-    <td width="2%" align="center">│</td>
-    <td width="32%" valign="top">
-      <h3><a href="#">📁 Projeto 3</a></h3>
-      <p>Descrição do projeto aqui.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/renatoguedes-qa/sauce-demo-teste-manual"><b>🛒 SauceDemo QA</b></a>
+  &nbsp;&nbsp;│&nbsp;&nbsp;
+  <a href="#"><b>📁 Projeto 2</b></a>
+  &nbsp;&nbsp;│&nbsp;&nbsp;
+  <a href="#"><b>📁 Projeto 3</b></a>
+</p>
+
+<p align="center">
+  <sub>Descrição do projeto aqui.</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Descrição do projeto aqui.</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Descrição do projeto aqui.</sub>
+</p>
 
 <div align="center">
 
