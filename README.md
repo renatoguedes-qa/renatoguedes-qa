@@ -43,23 +43,53 @@ Portfólio de projetos em Quality Assurance, documentação de testes e automaç
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projetos em Destaque
 
-<p align="center">
-  <a href="https://github.com/renatoguedes-qa/sauce-demo-teste-manual"><b>🛒 SauceDemo QA</b></a>
-  &nbsp;&nbsp;│&nbsp;&nbsp;
-  <a href="#"><b>📁 Projeto 2</b></a>
-  &nbsp;&nbsp;│&nbsp;&nbsp;
-  <a href="#"><b>📁 Projeto 3</b></a>
-</p>
+<table width="100%">
+<tr>
 
-<p align="center">
-  <sub>Descrição do projeto aqui.</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Descrição do projeto aqui.</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Descrição do projeto aqui.</sub>
-</p>
+<td width="33%" align="center" valign="top">
+
+### 🛒 SauceDemo QA
+
+Documentação de testes para um e-commerce, incluindo:
+
+
+
+<br>
+
+<a href="https://github.com/SEU-USUARIO/saucedemo-qa">
+    <img src="https://img.shields.io/badge/Acessar%20Projeto-6B8E5E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🎭 Playwright
+
+Projeto dedicado à automação de testes End-to-End utilizando Playwright.
+
+<br>
+
+<img src="https://img.shields.io/badge/Em%20Desenvolvimento-2E4A3A?style=for-the-badge&logo=playwright&logoColor=white" />
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🔌 API Testing
+
+Projeto voltado para testes de APIs REST, documentação e automação.
+
+<br>
+
+<img src="https://img.shields.io/badge/Em%20Planejamento-13231B?style=for-the-badge&logo=postman&logoColor=white" />
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
