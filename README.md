@@ -10,7 +10,7 @@ Este repositório reúne meus principais projetos em Quality Assurance, com foco
 
 <br>
 <p align="center">
-  <a href="https://github.com/renatoguedes-qa/indice">
+  <a href="https://github.com/renatoguedes-qa/sauce-demo-teste-manual">
     <img src="https://img.shields.io/badge/Projetos-6B8E5E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="./curriculo-renato-guedes.pdf">
