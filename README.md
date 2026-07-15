@@ -29,17 +29,15 @@ Portfólio de projetos em Quality Assurance, documentação de testes e automaç
 ## 🛠 Tecnologias
 
 <p align="center">
-  <img width="45px" title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-  <img width="45px" title="VS Code" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img width="45px" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="45px" title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img width="45px" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="45px" title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="45px" title="VS Code" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="45px" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="45px" title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="45px" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="45px" title="Playwright" alt="Playwright" src="https://playwright.dev/img/playwright-logo.svg" />
 </p>
 
-<p align="center">
-  Jira • VS Code • Git • GitHub • JavaScript • Playwright
-</p>
+
 
 ---
 
