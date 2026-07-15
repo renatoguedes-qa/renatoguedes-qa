@@ -9,18 +9,17 @@ Portfólio de projetos em Quality Assurance, documentação de testes e automaç
 </div>
 
 <br>
-
 <p align="center">
-  <a href="./projects">
+  <a href="https://github.com/renatoguedes-qa/indice">
     <img src="https://img.shields.io/badge/Projetos-6B8E5E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="./curriculo">
+  <a href="./curriculo-renato-guedes.pdf">
     <img src="https://img.shields.io/badge/Currículo-6B8E5E?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/renato-guedes-qa/">
     <img src="https://img.shields.io/badge/LinkedIn-6B8E5E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:renatocelioguedes@gmail.com">
     <img src="https://img.shields.io/badge/Contato-6B8E5E?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
