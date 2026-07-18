@@ -10,7 +10,7 @@ Este repositório reúne meus principais projetos em Quality Assurance, com foco
 
 <br>
 <p align="center">
-  <a href="./renato-guedes-analista-qa-junior.pdf">
+  <a href="./README_curriculo.md">
     <img src="https://img.shields.io/badge/Currículo-6B8E5E?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/renato-guedes-qa/">
