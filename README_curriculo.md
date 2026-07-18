@@ -3,12 +3,11 @@
 # RENATO GUEDES
 ### Analista de QA Júnior
 
-
+![Localização](https://img.shields.io/badge/📍-S%C3%A3o_Paulo%2C_SP-0B1D16?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-renato--guedes--qa-1F3A2F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-guedes-qa/)
 [![GitHub](https://img.shields.io/badge/GitHub-renato--guedes--qa-1F3A2F?style=flat-square&logo=github&logoColor=white)](https://github.com/renato-guedes-qa)
 
 [![Baixar currículo em PDF](https://img.shields.io/badge/📄_Baixar_Curr%C3%ADculo-PDF-D4A574?style=for-the-badge)](./renato-guedes-analista-qa-junior.pdf)
-[![Voltar ao repositório principal](https://img.shields.io/badge/↩_Voltar_ao-Reposit%C3%B3rio_Principal-4A7C59?style=for-the-badge)](https://github.com/renato-guedes-qa)
 
 </div>
 
@@ -68,12 +67,7 @@ Em transição para Quality Assurance, unindo lógica de programação, atençã
 
 ## Principais Competências
 
-![Testes Funcionais](https://img.shields.io/badge/Testes_Funcionais-4A7C59?style=flat-square)
-![Automação de Testes](https://img.shields.io/badge/Automação_de_Testes-4A7C59?style=flat-square)
-![Raciocínio Lógico](https://img.shields.io/badge/Raciocínio_Lógico-4A7C59?style=flat-square)
-![Metodologias Ágeis](https://img.shields.io/badge/Metodologias_Ágeis-4A7C59?style=flat-square)
-![Gestão de Bugs](https://img.shields.io/badge/Gestão_de_Bugs-4A7C59?style=flat-square)
-![Análise de Dados](https://img.shields.io/badge/Análise_de_Dados_/_Web_Analytics-4A7C59?style=flat-square)
+Testes Funcionais · Automação de Testes · Raciocínio Lógico · Metodologias Ágeis · Gestão de Bugs · Análise de Dados / Web Analytics
 
 ---
 
@@ -84,7 +78,9 @@ Inglês — B1 (Intermediário)
 <div align="center">
 
 [![Baixar currículo em PDF](https://img.shields.io/badge/📄_Baixar_Curr%C3%ADculo-PDF-D4A574?style=for-the-badge)](./renato-guedes-analista-qa-junior.pdf)
-[![Voltar ao repositório principal](https://img.shields.io/badge/↩_Voltar_ao-Reposit%C3%B3rio_Principal-4A7C59?style=for-the-badge)](https://github.com/renato-guedes-qa)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-renato--guedes--qa-1F3A2F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-guedes-qa/)
+[![GitHub](https://img.shields.io/badge/GitHub-renato--guedes--qa-1F3A2F?style=flat-square&logo=github&logoColor=white)](https://github.com/renato-guedes-qa)
 
 <sub>Markdown para leitura rápida em qualquer dispositivo · PDF disponível sob demanda para envio em processos seletivos.</sub>
 
