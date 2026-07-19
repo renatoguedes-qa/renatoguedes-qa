@@ -2,10 +2,9 @@
 
 # Renato Guedes
 
-### QA Analyst | Quality Assurance | Testes Manuais | Automação de Testes | JavaScript | Playwright 
+### Quality Assurance | Testes Manuais | Automação de Testes | JavaScript | Playwright 
 
-Este repositório reúne meus principais projetos em Quality Assurance, com foco em testes manuais, automação e estudos relacionados à qualidade de software.
-
+Este repositório reúne testes funcionais manuais, automação e testes de API — cada projeto com seu status atual, do publicado ao planejado.
 </div>
 
 <br>
