@@ -44,9 +44,9 @@ Este repositório reúne testes funcionais manuais, automação e testes de API 
 
 <td width="30%" align="center" valign="top">
 
-### 🛒 SauceDemo QA
+### 🛒 SauceDemo
 
-Documentação de testes para um e-commerce, incluindo:
+Testes funcinais do SauceDemo (SauceLabs) -- autenticação e chekout.
 
 
 
