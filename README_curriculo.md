@@ -14,7 +14,7 @@
 
 ## // Resumo Profissional
 
-Analista de QA Júnior com foco em testes funcionais e automação de testes web usando Playwright e JavaScript. Formação técnica em Telecomunicações pelo SENAI e mais de 11 anos em ambiente de alta criticidade na CPTM, atuando com análise de risco, diagnóstico de falhas e documentação de ocorrências. No portfólio de QA (SauceDemo, Sauce Labs), estruturou plano de testes, casos de teste e relatórios de incidentes inspirados em ISO/IEC/IEEE 29119-3 e ISTQB, cobrindo fluxos de autenticação e checkout. Na Bellalú Móveis e Decorações, identificou gargalo operacional e automatizou o processo em VBA, reduzindo em 90% o tempo de importação manual de arquivos.
+Analista de QA Júnior com foco em testes funcionais e automação de testes web usando Playwright e JavaScript. Formação técnica em Telecomunicações pelo SENAI e mais de 11 anos em ambiente de a[...]
 
 ---
 
@@ -63,7 +63,7 @@ Analista de QA Júnior com foco em testes funcionais e automação de testes web
 Prestação de serviços particulares, São Paulo, Brasil
 
 - Aulas particulares de matemática, traduzindo conceitos abstratos para alunos com diferentes formas de enxergar o mesmo problema.
-- Habilidade de comunicação e didática aplicada à documentação de incidentes no projeto SauceDemo, garantindo que cada defeito seja compreensível tanto para quem corrige (desenvolvedores) quanto para quem prioriza (gestores/produto).
+- Habilidade de comunicação e didática aplicada à documentação de incidentes no projeto SauceDemo, garantindo que cada defeito seja compreensível tanto para quem corrige (desenvolvedores) quant[...]
 
 ### Fundador
 *Jan 2022 — Jun 2026*
@@ -71,8 +71,8 @@ Prestação de serviços particulares, São Paulo, Brasil
 Bellalú Móveis e Decorações, São Paulo, SP
 
 - Gestão de negócio, incluindo mapeamento de necessidades de clientes, negociação, cronogramas e controle de qualidade dos entregáveis.
-- Identificação de gargalo em processo de importação manual de arquivos e desenvolvimento de automação em VBA, com apoio de IA generativa na sintaxe, resultando em redução de 90% no tempo de preparação dos arquivos.
-- Planejamento, criação e implantação de site institucional da Bellalú via CMS (Construtor de Sites UOL), com integração de Google Analytics e Meta Pixel para acompanhamento de tráfego e campanhas.
+- Identificação de gargalo em processo de importação manual de arquivos e desenvolvimento de automação em VBA, com apoio de IA generativa na sintaxe, resultando em redução de 90% no tempo de p[...]
+- Planejamento, criação e implantação de site institucional da Bellalú via CMS (Construtor de Sites UOL), com integração de Google Analytics e Meta Pixel para acompanhamento de tráfego e campa[...]
 
 ### Condutor de Trens
 *Jan 2013 — Jan 2024*
@@ -80,7 +80,7 @@ Bellalú Móveis e Decorações, São Paulo, SP
 CPTM — Companhia Paulista de Trens Metropolitanos, São Paulo, Brasil
 
 - Atuação em ambiente de alta criticidade, com gestão de riscos e segurança operacional, prevenção de acidentes e mitigação de riscos em sistemas ferroviários.
-- Análise de causa raiz de falhas mecânicas, pneumáticas e eletrônicas, distinguindo tipos de anomalia e registrando ocorrências com rastreabilidade, prática hoje aplicada à investigação e documentação de incidentes em QA.
+- Análise de causa raiz de falhas mecânicas, pneumáticas e eletrônicas, distinguindo tipos de anomalia e registrando ocorrências com rastreabilidade, prática hoje aplicada à investigação e do[...]
 - Cumprimento rigoroso de normas de segurança e participação em iniciativas de melhoria contínua de processos, reforçando disciplina, atenção a detalhes e foco em qualidade.
 
 ---
@@ -115,7 +115,7 @@ CPTM — Companhia Paulista de Trens Metropolitanos, São Paulo, Brasil
 
 ## // Principais Competências
 
-Testes Funcionais · Automação de Testes · Raciocínio Lógico · Metodologias Ágeis · Gestão de Defeitos (Bug Tracking) · Análise de Dados / Web Analytics
+Testes Funcionais · Automação de Testes · Playwright · JavaScript · Modelagem de Casos de Teste · Gestão de Defeitos (Bug Tracking) · Análise de Risco · Metodologias Ágeis (Scrum/Kanban) · Raciocínio Lógico
 
 ---
 
