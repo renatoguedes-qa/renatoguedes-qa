@@ -3,7 +3,6 @@
 # RENATO GUEDES
 ### Analista de QA Júnior
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-renato--guedes--qa-1F3A2F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-guedes-qa/)
 [![GitHub](https://img.shields.io/badge/GitHub-renato--guedes--qa-1F3A2F?style=flat-square&logo=github&logoColor=white)](https://github.com/renato-guedes-qa)
 
@@ -13,42 +12,91 @@
 
 ---
 
-## // Quality Assurance
+## // Resumo Profissional
 
-Em transição para Quality Assurance, unindo lógica de programação, atenção a detalhes e disciplina investigativa. Experiência prática em automação de processos, tratamento de dados e validação de integrações web (Google Tags e Pixel). Em formação ativa em testes funcionais e automação com JavaScript, Cypress e Playwright — pronto para aplicar essa base investigando riscos e fornecendo informação confiável que apoie decisões de qualidade em toda a equipe.
+Analista de QA Júnior com foco em testes funcionais e automação de testes web usando Playwright e JavaScript. Formação técnica em Telecomunicações pelo SENAI e mais de 11 anos em ambiente de alta criticidade na CPTM, atuando com análise de risco, diagnóstico de falhas e documentação de ocorrências. No portfólio de QA (SauceDemo, Sauce Labs), estruturou plano de testes, casos de teste e relatórios de incidentes inspirados em ISO/IEC/IEEE 29119-3 e ISTQB, cobrindo fluxos de autenticação e checkout. Na Bellalú Móveis e Decorações, identificou gargalo operacional e automatizou o processo em VBA, reduzindo em 90% o tempo de importação manual de arquivos.
 
 ---
 
-## Experiência
+## // Habilidades Técnicas
+
+### Testes de Software
+- Testes funcionais manuais
+- Casos de teste (test cases)
+- Planos de teste (test plan)
+- Testes de regressão e smoke em fluxos críticos
+- Documentação de incidentes (incident reports), severidade e prioridade
+
+### Automação de Testes
+- Playwright (Web UI)
+- JavaScript (DOM, seletores CSS, eventos)
+- Estrutura básica de testes automatizados para autenticação e checkout
+- Versionamento de scripts em Git/GitHub
+
+### Ferramentas e Metodologias
+- Git, GitHub
+- Metodologias Ágeis (Scrum, Kanban)
+- Gestão de bugs / bug tracking
+- CMS (Construtor de Sites UOL)
+- Google Analytics, Meta Pixel
+
+### Fundamentos Técnicos
+- Lógica de programação e modelagem
+- Análise de risco em sistemas
+- Telecomunicações (SENAI)
+
+---
+
+## // Experiência
+
+### Analista de QA Júnior — Projeto Autônomo de Portfólio
+*jun 2026 — Presente*
+
+- Planejamento e execução de testes funcionais manuais em aplicação de e-commerce, com foco em fluxos críticos de autenticação e checkout, priorizados por análise de risco.
+- Documentação de casos de teste, plano de teste e incidentes com base em ISO/IEC/IEEE 29119-3:2023 e boas práticas ISTQB, com apoio de IA generativa na diagramação dos artefatos.
+- Classificação de divergências por natureza antes do registro formal, distinguindo defeito real, requisito impreciso e observação de usabilidade, evitando contagem inflada de bugs.
+- Automação de testes web com Playwright e JavaScript, mantendo rastreabilidade entre casos de teste manuais e scripts de automação versionados em GitHub.
 
 ### Professor de Matemática (particular)
-*Prestação de serviços particulares, São Paulo, Brasil* · `Jan 2026 — Presente`
+*fev 2026 — Presente*
 
-- Ensino de matemática para reforço escolar (fundamental e médio) e preparatório para o Enem.
-- Abordagens pedagógicas:
-  - Construção de raciocínio lógico e analítico para resolução de problemas.
-  - Interpretação de textos para construção de modelos matemáticos.
-  - Tradução de conceitos abstratos em explicações compreensíveis.
-  - Organização de cronogramas e planejamento de estudos.
+Prestação de serviços particulares, São Paulo, Brasil
+
+- Aulas particulares de matemática, traduzindo conceitos abstratos para alunos com diferentes formas de enxergar o mesmo problema.
+- Habilidade de comunicação e didática aplicada à documentação de incidentes no projeto SauceDemo, garantindo que cada defeito seja compreensível tanto para quem corrige (desenvolvedores) quanto para quem prioriza (gestores/produto).
 
 ### Fundador
-*Bellalú Marcenaria, São Paulo, SP* · `Jan 2022 — Jun 2026`
+*Jan 2022 — Jun 2026*
 
-- Gestão de clientes, custos e controle de qualidade.
-- Destaques da atuação técnica:
-  - Gestão de negócio: mapeamento de necessidades dos clientes, negociação com fornecedores e gerenciamento de prazos de entrega (deadlines).
-  - Desenvolvimento web e CMS: planejamento, criação e implantação do site institucional da empresa utilizando ferramentas de gerenciamento de conteúdo.
+Bellalú Móveis e Decorações, São Paulo, SP
+
+- Gestão de negócio, incluindo mapeamento de necessidades de clientes, negociação, cronogramas e controle de qualidade dos entregáveis.
+- Identificação de gargalo em processo de importação manual de arquivos e desenvolvimento de automação em VBA, com apoio de IA generativa na sintaxe, resultando em redução de 90% no tempo de preparação dos arquivos.
+- Planejamento, criação e implantação de site institucional da Bellalú via CMS (Construtor de Sites UOL), com integração de Google Analytics e Meta Pixel para acompanhamento de tráfego e campanhas.
 
 ### Condutor de Trens
-*CPTM — Companhia Paulista de Trens Metropolitanos, São Paulo, Brasil* · `Jan 2013 — Jan 2024`
+*Jan 2013 — Jan 2024*
 
-- Gestão de riscos e segurança: atuação em ambiente de alta criticidade, aplicando prevenção de acidentes e mitigação de riscos operacionais.
-- Análise de causa raiz e diagnósticos: interpretação de terminais de controle e dados de diagnóstico para identificação analítica de falhas.
-- Cultura de qualidade e processos: vivência em ambiente com foco em melhoria contínua.
+CPTM — Companhia Paulista de Trens Metropolitanos, São Paulo, Brasil
+
+- Atuação em ambiente de alta criticidade, com gestão de riscos e segurança operacional, prevenção de acidentes e mitigação de riscos em sistemas ferroviários.
+- Análise de causa raiz de falhas mecânicas, pneumáticas e eletrônicas, distinguindo tipos de anomalia e registrando ocorrências com rastreabilidade, prática hoje aplicada à investigação e documentação de incidentes em QA.
+- Cumprimento rigoroso de normas de segurança e participação em iniciativas de melhoria contínua de processos, reforçando disciplina, atenção a detalhes e foco em qualidade.
 
 ---
 
-## Formação Acadêmica
+## // Projetos de QA
+
+### Projeto SauceDemo — Testes Funcionais e Automação Web
+
+- Projeto de portfólio em Quality Assurance para aplicação de e-commerce da Sauce Labs, com escopo delimitado aos fluxos de login/autenticação e checkout.
+- Desenvolvimento de 17 casos de teste e registro de 4 incidentes, incluindo o INC-004, que identificou violação de regra de negócio no checkout com carrinho vazio e pedido gerado com valor $0,00.
+- Produção de artefatos de teste com evidências e rastreabilidade (test cases, incident reports), integrados à automação em Playwright + JavaScript.
+- Organização dos arquivos do projeto em repositório GitHub, com documentação em README e bugs.md.
+
+---
+
+## // Formação Acadêmica
 
 **Licenciatura em Matemática** — Universidade Paulista
 `Conclusão prevista: Dez 2027`
@@ -58,20 +106,20 @@ Em transição para Quality Assurance, unindo lógica de programação, atençã
 
 ---
 
-## Certificações
+## // Certificações
 
 - ✓ Test Automation: JavaScript Web UI — *Test Automation University*
 - ✓ Gestão Ágil 2.0 — *MindMaster Treinamentos*
 
 ---
 
-## Principais Competências
+## // Principais Competências
 
-Testes Funcionais · Automação de Testes · Raciocínio Lógico · Metodologias Ágeis · Gestão de Bugs · Análise de Dados / Web Analytics
+Testes Funcionais · Automação de Testes · Raciocínio Lógico · Metodologias Ágeis · Gestão de Defeitos (Bug Tracking) · Análise de Dados / Web Analytics
 
 ---
 
-## Idiomas
+## // Idiomas
 
 Inglês — B1 (Intermediário)
 
@@ -81,7 +129,5 @@ Inglês — B1 (Intermediário)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-renato--guedes--qa-1F3A2F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-guedes-qa/)
 [![GitHub](https://img.shields.io/badge/GitHub-renato--guedes--qa-1F3A2F?style=flat-square&logo=github&logoColor=white)](https://github.com/renato-guedes-qa)
-
-
 
 </div>
